@@ -12,6 +12,5 @@ def func_three(y):
 	    print y
             return func_three(y-1)
 
-
 result=func_three(1000)
 print result
