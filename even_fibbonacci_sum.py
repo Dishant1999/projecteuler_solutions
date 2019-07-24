@@ -13,4 +13,3 @@ def fib(l, arr =[0,1]):
     return Sum
     
 print(fib(40000000))
-
