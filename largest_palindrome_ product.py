@@ -24,5 +24,4 @@ def palindrome(t):
     else:
         return False
 
-
 print(func(input()))
